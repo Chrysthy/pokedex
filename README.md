@@ -5,6 +5,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>  
@@ -22,6 +23,20 @@
 - React
 - Vite
 - Git e GitHub
+
+<br>
+
+## ✨ Features
+
+- Pokémon Listing: Displays an initial list of Pokémon fetched from the PokéAPI.
+- Infinite Scroll: A "Load More" button to fetch and add more Pokémon to the list.
+- Theme Toggler: Switch between Light and Dark mode.
+- SPA Navigation: Smooth navigation between pages without a full reload, using React Router.
+- Detailed View: A separate page for each Pokémon showing:
+  - Image, name, and type(s).
+- A complete list of moves.
+- A list of abilities with their descriptions.
+- Clickable Cards: Navigate to the details page by clicking on a Pokémon card.
 
 <br>
 
