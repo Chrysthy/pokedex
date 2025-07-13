@@ -1,4 +1,4 @@
-<h1 align="center"> Pokédex </h1>
+<h1 align="center"> Pokédex <img src="./src/img/pokeball-success.gif"></h1>
 
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,11 +27,12 @@
 
 ## 📜 License
 
-* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+- This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
 
 ## 🫱🏻‍🫲🏻 Contributing
+
 <p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
 <br>
