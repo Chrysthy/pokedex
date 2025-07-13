@@ -16,6 +16,12 @@
 
 <br>
 
+## 📸 Screenshots
+
+<img src=".github/gif-do-projeto.gif" alt="gif do projeto">
+
+<br>
+
 ## 🛠 Technologies
 
 - NPM
@@ -56,3 +62,6 @@
 <p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
 <br>
+
+## 🌟 Support
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
